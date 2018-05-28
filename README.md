@@ -1,4 +1,4 @@
-# node-regular-web-app-base-sample
+# auth0-node-regular-web-app-base-sample
 
 ## Running the Sample
 
