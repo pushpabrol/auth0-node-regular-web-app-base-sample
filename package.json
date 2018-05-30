@@ -6,7 +6,7 @@
   "author": "Auth0",
   "license": "MIT",
   "scripts": {
-    "start": "PORT=9099 node ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "body-parser": "^1.16.1",
